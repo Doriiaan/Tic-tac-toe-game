@@ -1,13 +1,17 @@
 # Tic-tac-toe-game
-First C++ project
+*First C++ project*
 
 
-#How to install ---------
+### How to install
 
-$- git clone ..
-$- cd Game
-$- make
+```
+git clone https://github.com/Doriiaan/Tic-tac-toe-game.git
+cd Game
+make
+```
 
-#How to launch ---------
+### How to launch 
 
+```
 $- ./game
+```
