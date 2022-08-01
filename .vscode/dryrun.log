@@ -1,6 +1,0 @@
-make --dry-run --keep-going --print-directory
-make: Entering directory '/home/blankhat/Documents/info/C++/Game'
-g++	 -o src/main.o -c src/main.cpp -std=c++20 -Werror -Wextra -Wall	 -O3 -DNDEBUG
-g++	 -o game src/Board.o src/Case.o src/Game.o src/Player.o src/Token.o src/main.o 
-make: Leaving directory '/home/blankhat/Documents/info/C++/Game'
- 
