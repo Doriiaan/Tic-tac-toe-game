@@ -13,5 +13,5 @@ make
 ### How to launch 
 
 ```
-$- ./game
+./game
 ```
