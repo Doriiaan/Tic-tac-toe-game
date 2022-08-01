@@ -6,7 +6,7 @@
 
 ```
 git clone https://github.com/Doriiaan/Tic-tac-toe-game.git
-cd Game
+cd Tic-tac-toe-game
 make
 ```
 
